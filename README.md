@@ -1,6 +1,6 @@
 # Real Time Chat Room
 
-Real Time Chat Room is web-based chatroom application utilizing Node.js’s web sockets for seamless real-time communication between users, with modern development practices ensuring optimal performance and scalability. The Interface and server infrastructure is purely built with HTML, CSS, JavaScript allowing real time message exchange between users with ease and efficency
+Real Time Chat Room is web-based chatroom application utilizing Node.js’s web sockets for seamless real-time communication between users, with modern development practices ensuring optimal performance and scalability. The Interface and server infrastructure is purely built with HTML, CSS, JavaScript allowing real time message exchange between users with ease and efficency.
 
 ## Installation
 
